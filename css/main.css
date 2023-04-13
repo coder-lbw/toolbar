@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    /* background-color: rgba(250, 250, 250, 0.521); */
+}
+
+.title {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+}
+
+.data-handle {
+    width: 350px;
+    height: 350px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 3px 2px 8px 5px #eee ;
+}
+
+.select-file {
+    /* width: fit-content; */
+    padding: 6px 10px;
+    /* border-radius: 6px; */
+    margin: 10px auto 0;
+    /* cursor: pointer;
+    background-color: rgb(13, 127, 250);
+    color: rgb(255, 255, 255); */
+}
+
+/* .select-file:active {
+    background-color: rgb(4, 95, 192);
+} */
+
+#show-result {
+    padding: 50px 10px 0;
+}
+
+.footer {
+
+}
